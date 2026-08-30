@@ -1,4 +1,4 @@
-# Bankruptcy Prevention Prediction 🏦
+# Bankruptcy Prevention Prediction
 
 I built this as a small end-to-end ML project: take a classic bankruptcy
 dataset, explore it, train a model, and actually ship something you can
