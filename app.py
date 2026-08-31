@@ -26,8 +26,7 @@ FEATURE_LABELS = {
     "operating_risk": "Operating Risk",
 }
 
-# Each feature in the original dataset only takes these three values.
-# Map a clean display label -> the actual float value the model expects.
+
 LEVEL_OPTIONS = {"0": 0.0, "0.5": 0.5, "1": 1.0}
 
 
